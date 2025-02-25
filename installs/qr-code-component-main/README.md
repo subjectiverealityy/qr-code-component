@@ -8,4 +8,4 @@ Built with HTML and CSS (Flexbox was used). A Figma file was used.
 https://youtu.be/5LMxTtXJvu4
 
 ## Live Site
-https://github.com/subjectiverealityy/qr-code-component
+https://subjectiverealityy.github.io/qr-code-component/
